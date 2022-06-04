@@ -1,4 +1,4 @@
-# bmiapp
+# Kurd BMI
 
 A new Flutter project.
 
